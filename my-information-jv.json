@@ -1,14 +1,12 @@
 {
-    "name": "Jonathan",
-    "last_Name": "Villa",
-    "age": "22",
-    "current_Grade": "Senior",
-    "fun_Facts": [
-      {
-                    "fav_Food": "Italian",
-                    "goals": "To graduate finally", 
-                    "over_View": "Can you believe how times flies? We are literally reaching mid-terms!?!?",
-                    "additional_Comments": " H E L L O - W O R L D "
-    }
-]
+	"name": "Jonathan",
+	"lastName": "Villa",
+	"age": "22",
+	"currentGrade": "Senior",
+	"favFood": "Italian",
+	"goals": "To graduate finally",
+	"overView": "Can you believe how times flies? We are literally reaching mid-terms!?!?",
+	"additionalComments": " H E L L O - W O R L D ",
+	"seatLocation": ""
+
 }
